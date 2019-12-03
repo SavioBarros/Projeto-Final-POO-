@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/model/Emprestimo.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/view/TelaBuscar.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/view/dadosAlunos.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/view/Biblioteca.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/dao/BibliotecariaDAOAluno.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/dao/EmprestimoDAO.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/exception/EJRException.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/dao/BibliotecariaDAO.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/view/TelaEmprestimo.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/view/TelaBibliotecaria.java</file>
+            <file>file:/C:/Users/savio/OneDrive/Documentos/NetBeansProjects/TrabFinal/src/br/com/ufc/view/dadosLivros.java</file>
+        </group>
+    </open-files>
+</project-private>
